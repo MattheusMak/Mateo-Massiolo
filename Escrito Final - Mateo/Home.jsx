@@ -1,0 +1,3 @@
+if (NewButton(onclick)){
+
+}
